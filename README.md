@@ -4,7 +4,7 @@ This project is a simple command-line task manager that allows users to create, 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Multiple users support (each with their own task list)
 - Add new tasks with:
@@ -18,7 +18,7 @@ This project is a simple command-line task manager that allows users to create, 
 
 ---
 
-## 🧑‍💻 How to Run
+## How to Run
 
 1. Open the project in IntelliJ IDEA (or your favorite Java IDE).
 2. Navigate to the `Main` class.
@@ -33,7 +33,7 @@ The program will guide you through a simple menu to perform actions like:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 todo-app/
 ├── README.md
@@ -61,7 +61,7 @@ todo-app/
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Java 17+
 - Jackson (for JSON serialization)
@@ -70,14 +70,14 @@ todo-app/
 
 ---
 
-## 📌 Notes
+## Notes
 
 - No password or authentication is required — the app is designed to be simple and local.
 - All task data is saved in `data.json` in the root directory.
 
 ---
 
-## ✅ Future Improvements (Optional)
+## Future Improvements (Optional)
 
 - Add user login with passwords
 - Integrate with a database (e.g., SQLite, PostgreSQL)
@@ -85,7 +85,7 @@ todo-app/
 
 ---
 
-## 📬 Contact
+## Contact
 
 Created by Bengü Yılmaz – for learning and personal productivity.  
 Feel free to modify, improve, or build upon it!
