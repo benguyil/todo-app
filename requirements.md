@@ -1,0 +1,7 @@
+- user can add new tasks
+- user can edit their tasks
+- user can write notes into their tasks
+- tasks have status and user can edit them
+- user can sign in just with their username
+- the tasks and user are saved in a json file.
+- user can list their task
